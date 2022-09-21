@@ -91,3 +91,6 @@
 # BC, Canada
 ![TrainConvg](Results/Validation/BCCanadaCFR.png?raw=true "Title")
 ![TrainConvg](Results/Validation/BCCanadaCSR.png?raw=true "Title")
+
+# Reference:
+- Bhuiyan, M.M.I. et al. (2022). On Predicting COVID-19 Fatality Ratio Based on Regression Using Machine Learning Model. In: Barolli, L., Hussain, F., Enokido, T. (eds) Advanced Information Networking and Applications. AINA 2022. Lecture Notes in Networks and Systems, vol 450. Springer, Cham. https://doi.org/10.1007/978-3-030-99587-4_28
